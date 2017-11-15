@@ -1,0 +1,59 @@
+=== RESTART: C:/Users/WERC/Dropbox/Phys 2425/Lab 9/LHS RHS calculations.py ===
+enter m1: 1
+enter m2: 1
+enter m3: 0
+enter r1: 17
+enter r2: 17
+enter r3: 0
+enter degrees: 210
+LHS: -144.27983227048747
+RHS: -144.27771613524376
+%Diff: 1.4666881783888215e-05
+>>> 
+=== RESTART: C:/Users/WERC/Dropbox/Phys 2425/Lab 9/LHS RHS calculations.py ===
+enter m1: 0
+enter m2: 0
+enter m3: 1
+enter r1: 0
+enter r2: 0
+enter r3: 17
+enter degrees: 30
+LHS: 72.1378
+RHS: 72.13991613524375
+%Diff: -2.9334624063294033e-05
+
+=== RESTART: C:/Users/WERC/Dropbox/Phys 2425/Lab 9/LHS RHS calculations.py ===
+enter m1: 1
+enter m2: 1
+enter m3: 1
+enter r1: 17
+enter r2: 13
+enter r3: 7
+enter degrees: 233.5
+LHS: -146.85268310557694
+RHS: -146.98087436255204
+%Diff: -0.000872924173152079
+>>> 
+=== RESTART: C:/Users/WERC/Dropbox/Phys 2425/Lab 9/LHS RHS calculations.py ===
+enter m1: 0
+enter m2: 2
+enter m3: 1
+enter r1: 0
+enter r2: 13
+enter r3: 17
+enter degrees: 110
+LHS: 135.5747166794594
+RHS: 135.2859224875136
+%Diff: 0.0021301478551388774
+>>> 
+=== RESTART: C:/Users/WERC/Dropbox/Phys 2425/Lab 9/LHS RHS calculations.py ===
+enter m1: 1
+enter m2: 1
+enter m3: 0
+enter r1: 9
+enter r2: 15
+enter r3: 0
+enter degrees: 185
+LHS: -87.86437237169196
+RHS: -84.31541067300564
+%Diff: 0.04039136231091674
