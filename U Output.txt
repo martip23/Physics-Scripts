@@ -1,0 +1,36 @@
+====== RESTART: C:/Users/WERC/Dropbox/Phys 2425/Lab 9/U calculations.py ======
+enter m1: 0
+enter m2: 1
+enter m3: 0
+enter r1(in cm): 0
+enter r2(in cm): 17
+enter r3(in cm): 0
+angleA(in degrees): 150
+angleB(in degrees): 330
+Potential Energy of A: -0.353192
+Potential Energy of B: 0.353192
+>>> 
+====== RESTART: C:/Users/WERC/Dropbox/Phys 2425/Lab 9/U calculations.py ======
+enter m1: 1
+enter m2: 1
+enter m3: 1
+enter r1(in cm): 17
+enter r2(in cm): 13
+enter r3(in cm): 9
+angleA(in degrees): 60
+angleB(in degrees): 240
+Potential Energy of A: 0.14394035031220404
+Potential Energy of B: -0.1439403503122039
+>>> 
+====== RESTART: C:/Users/WERC/Dropbox/Phys 2425/Lab 9/U calculations.py ======
+enter m1: 1
+enter m2: 0
+enter m3: 1
+enter r1(in cm): 11
+enter r2(in cm): 0
+enter r3(in cm): 13
+angleA(in degrees): 158.2
+angleB(in degrees): 338.2
+Potential Energy of A: 0.2518956063506396
+Potential Energy of B: -0.2518956063506398
+>>> 
